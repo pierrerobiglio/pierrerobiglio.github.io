@@ -2,67 +2,58 @@
   type: map
   contents:
     - name: Full Name
-      value: Pierre Robiglio
+      value: Thomas Robiglio
     - name: Date of Birth
-      value: 21st of April 1997
+      value: 2nd April 1999
     - name: Languages
-      value: Italian, French, English
+      value: Italian, French (native), English (proficient)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Einaudi Institute for Economics and Finance, Rome, Italy
-      year: 2021 - ongoing
+    - title: MSc. in Physics of Complex Systems
+      institution: PoliTO, SISSA, ICPT, Université de Paris, Paris-Saclay, Sorbonne
+      year: 2021-2023
       description:
-        - Description 1. Joint Program between EIEF and LUISS
-        - Description 2. Coursework completed
-        - Description 3. Advisor: Matteo Paradisi
-
-    - title: MsC in Economics
-      institution: Erasmus School of Economics, Rotterdam, Netherlands
-      year: 2019
+        - Expected Graduation July 2023
+    - title: BSc. in Physical Science and Technology
+      institution: Università degli Studi di Torino
+      year: 2018-2021
       description:
-        - Description 1. Supervisor: Olivier Marie 
-        - Description 2. Thesis: The effect of immigration on crime and crime concerns
-        - Description 3. Graduated Cum Laude  
-
-    - title: BsC in Economics
-      institution: Erasmus School of Economics, Rotterdam, Netherlands
-      year: 2018
-      description:
-        - Description 1. Supervisor: Benoit Crutzen
-        - Description 2. Thesis: The redistributive consequences of the Minimum Wage
-        - Description 3. Graduated Cum Laude  
+        - <b>Thesis:</b> Interacting contagion models on simplicial complexes
+        - <b>Supervisors:</b> Prof. M. Osella, Dr. G. Petri
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Bocconi University, Milan, Italy
+    - title: Internship Student
+      institution: CPT, Marseille
+      year: 2023
+    - title: Visiting Student
+      institution: CENTAI Institute
+      year: 2023
+    - title: Student
+      institution: ISI Foundation
+      year: 2021
       description:
-        - Description 1. Assistant at CLEAN unit, under Paolo Pinotti 
-        - Description 2. Developed experience in handling administrative data
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Assisted senior research scientist Dr. Giovanni Petri in the study of high- order interactions and spreading phenemona on simplicial complexes.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1. Labor Economics
-      items: 
-        - Description 1. Informal Labor in Developed Economies
-        - Description 2. The role of expectations in the Labor Market
-        - Description 3. Early determinants of the Gender Gap
-        - Description 4. The Age Gap and its causes
-    - title: Topic 2. Public Economics
+    - title: Network science
       items:
-        - Description 1. Firms and asymmetric pass-through
-        - Description 2.
+        - Dynamics on networks
+        - Network reconstrunction from data
+        - Networks beyond pairwise interactions
+    - title: Statistical physics
+      items:
+        - Nonlinear and disordered systems
+        - Biophysics and applications
 
 - title: Other Interests
   type: list
   contents:
-    - Hobbies: Basketball, Football, Cycling, History
+    - <b>Volunteering Activities:</b> I've been an active member of AGESCI Scout Group Torino 85 since I was a kid, from 2018 to 2022 as a qualified chief-educator.
+    - <b>Sports:</b>  Cycling, Soccer and mountaineering.
+    - Italian politics, novels, podcasts.

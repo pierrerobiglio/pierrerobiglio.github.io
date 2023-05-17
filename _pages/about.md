@@ -2,27 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: Economist
+subtitle: International MSc. program in Physics of Complex Systems
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>Einaudi Institute for Economics and Finance</p>
-    <p>62, Via Sallustiana</p>
-    <p>Rome, Italy</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my page! 
+Welcome to my page!
 
-I am 2nd year PhD student in economics at [RED - Rome Economics Doctorate](https://www.redphd.it/), a joint program between [EIEF](https://www.eief.it/eief/) and [LUISS](https://www.luiss.edu/). My main research interest is labor economics, and my supervisor is [Matteo Paradisi](https://www.matteoparadisi.com/). 
+I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps into graduate studies and reasearch. 
 
-Previously, I worked for one year at [CLEAN](https://clean.unibocconi.eu/), a research unit in Bocconi University that focuses on Crime Economics. I obtained both my MSc and BSc in Economics at the [Erasmus School of Economics](https://www.eur.nl/en/ese). 
+My interest relies in the study of Complex Systems using tools from Network Science and Statistical Physics with a particular focus on Higher-Order systems.
 
-
+I am currently working on my MSc thesis under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/english.html) and [Mathieu Génois](https://www.cpt.univ-mrs.fr/spip.php?page=personne&id_personne=143&lang=en) at [CPT](https://www.cpt.univ-mrs.fr/?lang=en) in Marseille. The thesis deals with the the study of attractiveness and higher-order structures in face-to-face interactions in human gatherings. I am also working in the [NPL](https://nplresearch.github.io) group at [Centai](https://centai.eu/home) in Torino on the inference of higher-order structures from Kuramoto dynamics. 
