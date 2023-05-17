@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pierre.robiglio.github.io/sitemap.xml
+Sitemap: https://pierrerobiglio.github.io/sitemap.xml
