@@ -17,11 +17,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 <<<<<<< HEAD
-icon: 🅿️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-=======
 icon: 🅿️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
->>>>>>> c03df458ab8a704254f45431d4d78563a9e7a89a
-
 url: https://pierrerobiglio.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
