@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.5">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e3}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #000000; color: rgba(0, 0, 0, 0.85); -webkit-text-stroke: rgba(0, 0, 0, 0.85)}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+    span.s1 {font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #000000}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e3}
+    span.s3 {font-kerning: none}
+    span.s4 {font: 12.0px Times; font-kerning: none; -webkit-text-stroke: 0px #000000}
+    span.s5 {font-kerning: none; background-color: #a4a4a4}
+    span.s6 {-webkit-text-stroke: 0px #000000}
+    span.s7 {text-decoration: underline ; font-kerning: none}
+    span.s8 {color: #0000e3; -webkit-text-stroke: 0px #000000}
+    span.s9 {text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000e3}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% if page.permalink != '/' -%} <a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20site.baseurl%20%7D%7D/"><span class="s2">{%- if site.title == "blank" -%} {%- if site.first_name -%} {{- site.first_name -}}  {%- endif -%} {%- if site.middle_name -%} {{- site.middle_name -}}  {%- endif -%} {%- if site.last_name -%} {{- site.last_name -}} {%- endif -%} {%- else -%} {{- site.title -}} {%- endif -%} </span></a>{%- elsif site.enable_navbar_social -%}</span></p>
+<p class="p2"><span class="s3">{% include social.html %}</span></p>
+<p class="p3"><span class="s4">{% endif %} </span><span class="s5">Toggle navigation</span></p>
+<ul class="ul1">
+  <li class="li2"><span class="s6"></span><span class="s3">{%- for page in site.pages -%} {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %} {% endfor %}</span></li>
+  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20'/'%20%7C%20relative_url%20%7D%7D"><span class="s7">{{ about_title }} {%- if page.permalink == '/' -%} (current) {%- endif -%}</span></a></span></li>
+  <li class="li2"><span class="s6"></span><span class="s3">{% if site.blog_nav_title %}</span></li>
+  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20'/blog/'%20%7C%20relative_url%20%7D%7D"><span class="s7">{{ site.blog_nav_title }} {%- if page.url contains 'blog' -%} (current) {%- endif -%}</span></a></span></li>
+  <li class="li2"><span class="s6"></span><span class="s3">{%- endif %} {%- assign sorted_pages = site.pages | sort: "nav_order" -%} {%- for p in sorted_pages -%} {%- if p.nav and p.autogen == nil -%} {%- if p.dropdown %}</span></li>
+  <li class="li2"><span class="s8"></span><span class="s9">{{ p.title }} {%- if page.title == p.title -%} (current) {%- endif -%} </span><span class="s3">{%- for child in p.children -%} {%- if child.title == 'divider' %} <br>
+{%- else %} <a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20child.permalink%20%7C%20relative_url%20%7D%7D"><span class="s9">{{ child.title }}</span></a> {%- endif -%} {% endfor %}<span class="Apple-converted-space"> </span></span></li>
+  <li class="li2"><span class="s6"></span><span class="s3">{%- else %}</span></li>
+  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D"><span class="s7">{{ p.title }} {%- if page.title == p.title -%} (current) {%- endif -%}</span></a></span></li>
+  <li class="li2"><span class="s6"></span><span class="s3">{%- endif -%} {%- endif -%} {% endfor -%} {%- if site.enable_darkmode %}</span></li>
+  <li class="li5"></li>
+  <li class="li2"><span class="s6"></span><span class="s3">{%- endif %}</span></li>
+</ul>
+<p class="p2"><span class="s3">{% if site.enable_progressbar %}</span></p>
+<p class="p6"><span class="s3"></span><br></p>
+<p class="p2"><span class="s3">{%- endif %}</span></p>
+</body>
+</html>
