@@ -62,56 +62,230 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2299.5">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e3}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #000000; color: rgba(0, 0, 0, 0.85); -webkit-text-stroke: rgba(0, 0, 0, 0.85)}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
-    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
-    span.s1 {font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #000000}
-    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e3}
-    span.s3 {font-kerning: none}
-    span.s4 {font: 12.0px Times; font-kerning: none; -webkit-text-stroke: 0px #000000}
-    span.s5 {font-kerning: none; background-color: #a4a4a4}
-    span.s6 {-webkit-text-stroke: 0px #000000}
-    span.s7 {text-decoration: underline ; font-kerning: none}
-    span.s8 {color: #0000e3; -webkit-text-stroke: 0px #000000}
-    span.s9 {text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000e3}
-    ul.ul1 {list-style-type: disc}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e3; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e3; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
   </style>
 
 
-<p class="p1"><span class="s1"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20site.baseurl%20%7D%7D/"><span class="s2">Pierre Robiglio</span></a> </span><span class="s5">Toggle navigation</span></p>
-<ul class="ul1">
-  <li class="li2">
-<span class="s6"></span><span class="s3"></span>
-</li>
-  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20'/'%20%7C%20relative_url%20%7D%7D"><span class="s7">about</span></a></span></li>
-  <li class="li2">
-<span class="s6"></span><span class="s3"></span>
-</li>
-  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20'/blog/'%20%7C%20relative_url%20%7D%7D"><span class="s7">blog(current)</span></a></span></li>
-  <li class="li2">
-<span class="s6"></span><span class="s3"></span>
-</li>
-  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D"><span class="s7">projects</span></a></span></li>
-  <li class="li2">
-<span class="s6"></span><span class="s3"></span>
-</li>
-  <li class="li4"><span class="s6"><a href="file:///Users/pierrerobiglio/Documents/GitHub/pierrerobiglio.github.io/_includes/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D"><span class="s7">cv</span></a></span></li>
-  <li class="li2">
-<span class="s6"></span><span class="s3"></span>
-</li>
-  <li class="li5">
-  </li>
-<li class="li2">
-<span class="s6"></span><span class="s3"></span>
-</li>
-</ul>
-<p class="p2"><span class="s3"></span></p>
-<p class="p6"><span class="s3"></span><br></p>
-<p class="p2"><span class="s3"></span></p>
+<p class="p1"><span class="s1">@ -1,119 +1,48 @@</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;header&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;!-- Nav Bar --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="container"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;a class="navbar-brand title font-weight-lighter" href="/"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;span class="font-weight-bold"&gt;Pierre&amp;nbsp;&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>Robiglio</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;!-- Navbar Toggle --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;span class="icon-bar top-bar"&gt;&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;span class="icon-bar middle-bar"&gt;&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;span class="icon-bar bottom-bar"&gt;&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/button&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="collapse navbar-collapse text-right" id="navbarNav"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;ul class="navbar-nav ml-auto flex-nowrap"&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;!-- About --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;li class="nav-item "&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a class="nav-link" href="/"&gt;about</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;!-- Blog --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;li class="nav-item active"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a class="nav-link" href="/blog/"&gt;blog</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;span class="sr-only"&gt;(current)&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;!-- Other pages --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;li class="nav-item "&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a class="nav-link" href="/projects/"&gt;projects</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;li class="nav-item "&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a class="nav-link" href="/cv/"&gt;cv</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;!-- Toogle theme mode --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;li class="toggle-container"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;button id="light-toggle" title="Change theme"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;i class="fas fa-moon"&gt;&lt;/i&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;i class="fas fa-sun"&gt;&lt;/i&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/button&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/ul&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/nav&gt;</span></p>
+<p class="p1"><span class="s1"></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;!-- Scrolling Progress Bar --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;progress id="progress" value="0"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="progress-container"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;span class="progress-bar"&gt;&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/progress&gt;</span></p>
+<p class="p1"><span class="s1"></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/header&gt;</span></p>
 
 
 
@@ -160,8 +334,8 @@ sequenceDiagram
 </code></pre></div></div>
 
 <div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1684320047801" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewbox="-50 -10 450 231"><style>#mermaid-1684320047801 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1684320047801 .node circle,#mermaid-1684320047801 .node ellipse,#mermaid-1684320047801 .node polygon,#mermaid-1684320047801 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1684320047801 .node.clickable{cursor:pointer}#mermaid-1684320047801 .arrowheadPath{fill:#333}#mermaid-1684320047801 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1684320047801 .edgeLabel{background-color:#e8e8e8}#mermaid-1684320047801 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1684320047801 .cluster text{fill:#333}#mermaid-1684320047801 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1684320047801 .actor{stroke:#ccf;fill:#ececff}#mermaid-1684320047801 text.actor{fill:#000;stroke:none}#mermaid-1684320047801 .actor-line{stroke:grey}#mermaid-1684320047801 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1684320047801 .messageLine0,#mermaid-1684320047801 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1684320047801 #arrowhead{fill:#333}#mermaid-1684320047801 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1684320047801 .messageText{fill:#333;stroke:none}#mermaid-1684320047801 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1684320047801 .labelText,#mermaid-1684320047801 .loopText{fill:#000;stroke:none}#mermaid-1684320047801 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1684320047801 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1684320047801 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1684320047801 .section{stroke:none;opacity:.2}#mermaid-1684320047801 .section0{fill:rgba(102,102,255,.49)}#mermaid-1684320047801 .section2{fill:#fff400}#mermaid-1684320047801 .section1,#mermaid-1684320047801 .section3{fill:#fff;opacity:.2}#mermaid-1684320047801 .sectionTitle0,#mermaid-1684320047801 .sectionTitle1,#mermaid-1684320047801 .sectionTitle2,#mermaid-1684320047801 .sectionTitle3{fill:#333}#mermaid-1684320047801 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1684320047801 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1684320047801 .grid path{stroke-width:0}#mermaid-1684320047801 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1684320047801 .task{stroke-width:2}#mermaid-1684320047801 .taskText{text-anchor:middle;font-size:11px}#mermaid-1684320047801 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1684320047801 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1684320047801 .taskText0,#mermaid-1684320047801 .taskText1,#mermaid-1684320047801 .taskText2,#mermaid-1684320047801 .taskText3{fill:#fff}#mermaid-1684320047801 .task0,#mermaid-1684320047801 .task1,#mermaid-1684320047801 .task2,#mermaid-1684320047801 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1684320047801 .taskTextOutside0,#mermaid-1684320047801 .taskTextOutside1,#mermaid-1684320047801 .taskTextOutside2,#mermaid-1684320047801 .taskTextOutside3{fill:#000}#mermaid-1684320047801 .active0,#mermaid-1684320047801 .active1,#mermaid-1684320047801 .active2,#mermaid-1684320047801 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1684320047801 .activeText0,#mermaid-1684320047801 .activeText1,#mermaid-1684320047801 .activeText2,#mermaid-1684320047801 .activeText3{fill:#000!important}#mermaid-1684320047801 .done0,#mermaid-1684320047801 .done1,#mermaid-1684320047801 .done2,#mermaid-1684320047801 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1684320047801 .doneText0,#mermaid-1684320047801 .doneText1,#mermaid-1684320047801 .doneText2,#mermaid-1684320047801 .doneText3{fill:#000!important}#mermaid-1684320047801 .crit0,#mermaid-1684320047801 .crit1,#mermaid-1684320047801 .crit2,#mermaid-1684320047801 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1684320047801 .activeCrit0,#mermaid-1684320047801 .activeCrit1,#mermaid-1684320047801 .activeCrit2,#mermaid-1684320047801 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1684320047801 .doneCrit0,#mermaid-1684320047801 .doneCrit1,#mermaid-1684320047801 .doneCrit2,#mermaid-1684320047801 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1684320047801 .activeCritText0,#mermaid-1684320047801 .activeCritText1,#mermaid-1684320047801 .activeCritText2,#mermaid-1684320047801 .activeCritText3,#mermaid-1684320047801 .doneCritText0,#mermaid-1684320047801 .doneCritText1,#mermaid-1684320047801 .doneCritText2,#mermaid-1684320047801 .doneCritText3{fill:#000!important}#mermaid-1684320047801 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1684320047801 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1684320047801 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1684320047801 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1684320047801 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1684320047801 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1684320047801 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1684320047801 #compositionEnd,#mermaid-1684320047801 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1684320047801 #aggregationEnd,#mermaid-1684320047801 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1684320047801 #dependencyEnd,#mermaid-1684320047801 #dependencyStart,#mermaid-1684320047801 #extensionEnd,#mermaid-1684320047801 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1684320047801 .branch-label,#mermaid-1684320047801 .commit-id,#mermaid-1684320047801 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style>
-<style>#mermaid-1684320047801 {
+  <svg id="mermaid-1684320313255" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewbox="-50 -10 450 231"><style>#mermaid-1684320313255 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1684320313255 .node circle,#mermaid-1684320313255 .node ellipse,#mermaid-1684320313255 .node polygon,#mermaid-1684320313255 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1684320313255 .node.clickable{cursor:pointer}#mermaid-1684320313255 .arrowheadPath{fill:#333}#mermaid-1684320313255 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1684320313255 .edgeLabel{background-color:#e8e8e8}#mermaid-1684320313255 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1684320313255 .cluster text{fill:#333}#mermaid-1684320313255 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1684320313255 .actor{stroke:#ccf;fill:#ececff}#mermaid-1684320313255 text.actor{fill:#000;stroke:none}#mermaid-1684320313255 .actor-line{stroke:grey}#mermaid-1684320313255 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1684320313255 .messageLine0,#mermaid-1684320313255 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1684320313255 #arrowhead{fill:#333}#mermaid-1684320313255 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1684320313255 .messageText{fill:#333;stroke:none}#mermaid-1684320313255 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1684320313255 .labelText,#mermaid-1684320313255 .loopText{fill:#000;stroke:none}#mermaid-1684320313255 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1684320313255 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1684320313255 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1684320313255 .section{stroke:none;opacity:.2}#mermaid-1684320313255 .section0{fill:rgba(102,102,255,.49)}#mermaid-1684320313255 .section2{fill:#fff400}#mermaid-1684320313255 .section1,#mermaid-1684320313255 .section3{fill:#fff;opacity:.2}#mermaid-1684320313255 .sectionTitle0,#mermaid-1684320313255 .sectionTitle1,#mermaid-1684320313255 .sectionTitle2,#mermaid-1684320313255 .sectionTitle3{fill:#333}#mermaid-1684320313255 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1684320313255 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1684320313255 .grid path{stroke-width:0}#mermaid-1684320313255 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1684320313255 .task{stroke-width:2}#mermaid-1684320313255 .taskText{text-anchor:middle;font-size:11px}#mermaid-1684320313255 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1684320313255 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1684320313255 .taskText0,#mermaid-1684320313255 .taskText1,#mermaid-1684320313255 .taskText2,#mermaid-1684320313255 .taskText3{fill:#fff}#mermaid-1684320313255 .task0,#mermaid-1684320313255 .task1,#mermaid-1684320313255 .task2,#mermaid-1684320313255 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1684320313255 .taskTextOutside0,#mermaid-1684320313255 .taskTextOutside1,#mermaid-1684320313255 .taskTextOutside2,#mermaid-1684320313255 .taskTextOutside3{fill:#000}#mermaid-1684320313255 .active0,#mermaid-1684320313255 .active1,#mermaid-1684320313255 .active2,#mermaid-1684320313255 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1684320313255 .activeText0,#mermaid-1684320313255 .activeText1,#mermaid-1684320313255 .activeText2,#mermaid-1684320313255 .activeText3{fill:#000!important}#mermaid-1684320313255 .done0,#mermaid-1684320313255 .done1,#mermaid-1684320313255 .done2,#mermaid-1684320313255 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1684320313255 .doneText0,#mermaid-1684320313255 .doneText1,#mermaid-1684320313255 .doneText2,#mermaid-1684320313255 .doneText3{fill:#000!important}#mermaid-1684320313255 .crit0,#mermaid-1684320313255 .crit1,#mermaid-1684320313255 .crit2,#mermaid-1684320313255 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1684320313255 .activeCrit0,#mermaid-1684320313255 .activeCrit1,#mermaid-1684320313255 .activeCrit2,#mermaid-1684320313255 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1684320313255 .doneCrit0,#mermaid-1684320313255 .doneCrit1,#mermaid-1684320313255 .doneCrit2,#mermaid-1684320313255 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1684320313255 .activeCritText0,#mermaid-1684320313255 .activeCritText1,#mermaid-1684320313255 .activeCritText2,#mermaid-1684320313255 .activeCritText3,#mermaid-1684320313255 .doneCritText0,#mermaid-1684320313255 .doneCritText1,#mermaid-1684320313255 .doneCritText2,#mermaid-1684320313255 .doneCritText3{fill:#000!important}#mermaid-1684320313255 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1684320313255 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1684320313255 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1684320313255 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1684320313255 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1684320313255 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1684320313255 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1684320313255 #compositionEnd,#mermaid-1684320313255 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1684320313255 #aggregationEnd,#mermaid-1684320313255 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1684320313255 #dependencyEnd,#mermaid-1684320313255 #dependencyStart,#mermaid-1684320313255 #extensionEnd,#mermaid-1684320313255 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1684320313255 .branch-label,#mermaid-1684320313255 .commit-id,#mermaid-1684320313255 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style>
+<style>#mermaid-1684320313255 {
     color: rgb(0, 0, 0);
     font: normal normal 400 normal 16px / normal "Times New Roman";
   }</style>
