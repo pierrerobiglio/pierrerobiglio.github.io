@@ -17,27 +17,23 @@
       description:
         - Description 1. Joint Program between EIEF and LUISS
         - Description 2. Coursework completed
-	- Description 3. Advisor: Matteo Paradisi
+        - Description 3. Advisor: Matteo Paradisi
 
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: MsC in Economics
       institution: Erasmus School of Economics, Rotterdam, Netherlands
       year: 2019
       description:
         - Description 1. Supervisor: Olivier Marie 
         - Description 2. Thesis: The effect of immigration on crime and crime concerns
-	- Description 3. Graduated Cum Laude  
-  - title: BsC in Economics
+        - Description 3. Graduated Cum Laude  
+
+    - title: BsC in Economics
       institution: Erasmus School of Economics, Rotterdam, Netherlands
       year: 2018
       description:
         - Description 1. Supervisor: Benoit Crutzen
         - Description 2. Thesis: The redistributive consequences of the Minimum Wage
-	- Description 3. Graduated Cum Laude  
-
+        - Description 3. Graduated Cum Laude  
 
 - title: Experience
   type: time_table
@@ -51,7 +47,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-   
 
 - title: Academic Interests
   type: nested_list
@@ -60,14 +55,14 @@
       items: 
         - Description 1. Informal Labor in Developed Economies
         - Description 2. The role of expectations in the Labor Market
-	- Description 3. Early determinants of the Gender Gap
-	- Description 4. The Age Gap and its causes
+        - Description 3. Early determinants of the Gender Gap
+        - Description 4. The Age Gap and its causes
     - title: Topic 2. Public Economics
       items:
-        - Description 1. Firms and asymmetric pass through
+        - Description 1. Firms and asymmetric pass-through
         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Basketball, Football, Cycling, History
+    - Hobbies: Basketball, Football, Cycling, History
