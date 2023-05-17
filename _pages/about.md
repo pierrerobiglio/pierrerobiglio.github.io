@@ -17,8 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page!
 
-I am a MSc. student enrolled in the international program in [Physics of Complex Systems](http://www.pcs.polito.it). I am moving my first steps into graduate studies and reasearch. 
-
-My interest relies in the study of Complex Systems using tools from Network Science and Statistical Physics with a particular focus on Higher-Order systems.
-
-I am currently working on my MSc thesis under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/english.html) and [Mathieu Génois](https://www.cpt.univ-mrs.fr/spip.php?page=personne&id_personne=143&lang=en) at [CPT](https://www.cpt.univ-mrs.fr/?lang=en) in Marseille. The thesis deals with the the study of attractiveness and higher-order structures in face-to-face interactions in human gatherings. I am also working in the [NPL](https://nplresearch.github.io) group at [Centai](https://centai.eu/home) in Torino on the inference of higher-order structures from Kuramoto dynamics. 
+I am a PhD student in economics at EIEF and Luiss Guido Carli. I am an applied economist with broad research interests, including  public economics, political economy and labour. I have received MsC and BsC in economics from Erasmus School of Economics in Rotterdam, with a thesis on the (null) effect of immigration on crime. My research interests lie in the areas of Public Economics, Applied Microeconomics, Political Economy, Labour, Health and Mental Health Economics, Crime Economics. 
