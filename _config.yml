@@ -65,14 +65,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: PierreRobiglio # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: #your GitLab user name
-twitter_username: thomrobiglio # your Twitter handle
-linkedin_username: thomas-robiglio-04088822b # your LinkedIn user name
+twitter_username: PierreRobiglio # your Twitter handle
+linkedin_username: pierre-robiglio-211119100 # your LinkedIn user name
 scholar_userid: uea_f2MAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0001-7267-9401 # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -91,8 +91,8 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
-mastodon_username: thomasrobiglio
-mastodon_instance: mathstodon.xyz
+mastodon_username: #
+mastodon_instance: #
 
 contact_note: >
 
