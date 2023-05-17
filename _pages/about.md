@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: International MSc. program in Physics of Complex Systems
+subtitle: PhD student in economics
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
