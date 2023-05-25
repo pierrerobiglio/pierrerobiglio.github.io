@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-23 15:59:00-0400
+date: 2023-5-23 15:59:00-0400
 inline: true
 ---
 
-['Simplicially driven simple contagion'](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013201) has been published in Physical Review Research! 
+I'm very excited to participate to [BSE's](https://bse.eu/) Summer School on Wage Determination in Barcelona :sunny: between the 3rd and 7th of june
