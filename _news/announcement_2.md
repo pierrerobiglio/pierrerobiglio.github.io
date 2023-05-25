@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-23 15:59:00-0400
+date: 2023-05-35 15:59:00-0400
 inline: true
 ---
 
-I am attending the [Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/10059/) at ICTP in Trieste, Italy. There I will also be presenting [a poster](https://thomasrobiglio.github.io/assets/pdf/draft_interacting_simplagion_poster.pdf) on our work "Simplicially driven simple contagion". 
+I am participating in the  [Montreal Replication Games](https://grch.esg.uqam.ca/en/montreal-replication-games-2023/) on the 14th of june. Hopefully this becomes something I do on a regular basis and that will find a place in this space. 

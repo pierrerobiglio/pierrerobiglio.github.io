@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-17 15:59:00-0400
+date: 2023-5-12 15:59:00-0400
 inline: true
 ---
 
-I am attending the Conference on Complex Systems [CCS2022](https://www.ccs2022.org) in Palma de Mallorca, Spain :sunny:
+Presented my project on Misperceptions in the Labor Market with [Jacopo Orlandi](https://www.redphd.it/students/24-179/orlandi) at the [EIEF](https://www.eief.it/eief/index.php/it/) Lunch Seminar :sunny:
