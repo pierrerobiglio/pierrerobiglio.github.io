@@ -17,4 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page!
 
-I am a PhD student in economics at EIEF and Luiss Guido Carli. I am an applied economist with broad research interests, including  public economics, political economy and labour. I have received MsC and BsC in economics from Erasmus School of Economics in Rotterdam, with a thesis on the (null) effect of immigration on crime. My research interests lie in the areas of Public Economics, Applied Microeconomics, Political Economy, Labour, Health and Mental Health Economics, Crime Economics. 
+I am a 2nd PhD Student in Economics at the [Rome Economics Doctorate](https://www.redphd.it/), a joint program between [EIEF](https://www.eief.it/eief/index.php/it/), [LUISS](https://www.luiss.edu/) and [Tor Vergata](https://web.uniroma2.it/)
+
+My primary research interest is Labor Economics, and [Matteo Paradisi](https://www.matteoparadisi.com/) is my supervisor.
+
+Before joining the RED, I was a research assistant at [Bocconi](https://www.unibocconi.it/wps/wcm/connect/bocconi/sitopubblico_it/albero+di+navigazione/home/entrare+in+bocconi/?gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF_E6_M83rgPlqXp3zOBdwnjo3FxoxCphbxk0H7Mj2tVMqfHGbHOaeYaAjADEALw_wcB). I obtained both my BSc and MSc in Economics from [ESE](https://www.eur.nl/en/ese).
