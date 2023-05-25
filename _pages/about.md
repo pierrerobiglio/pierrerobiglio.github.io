@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page!
 
-I am a 2nd PhD Student in Economics at the [Rome Economics Doctorate](https://www.redphd.it/), a joint program between [EIEF](https://www.eief.it/eief/index.php/it/), [LUISS](https://www.luiss.edu/) and [Tor Vergata](https://web.uniroma2.it/).
+I am a 2nd year PhD Student in Economics at the [Rome Economics Doctorate](https://www.redphd.it/), a joint program between [EIEF](https://www.eief.it/eief/index.php/it/), [LUISS](https://www.luiss.edu/) and [Tor Vergata](https://web.uniroma2.it/).
 
 My primary research interest is Labor Economics, and [Matteo Paradisi](https://www.matteoparadisi.com/) is my supervisor.
 
