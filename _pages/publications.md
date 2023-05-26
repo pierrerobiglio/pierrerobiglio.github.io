@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: I hope this page gets more crowded along the way...
+description: Hopefully this gets crowded soon!
 years: [2023, 2021]
 
 nav: true
