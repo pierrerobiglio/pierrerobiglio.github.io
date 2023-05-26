@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: Hopefully this gets crowded soon!
-years: [2023, 2021]
+years: [2023]
 
 nav: true
 nav_order: 1
