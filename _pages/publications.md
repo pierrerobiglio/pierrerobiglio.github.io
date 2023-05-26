@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /projects/
+title: projects
 description: I hope this page gets more crowded along the way...
 years: [2023, 2021]
 
