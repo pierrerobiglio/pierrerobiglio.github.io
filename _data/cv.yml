@@ -32,17 +32,18 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Internship Student
-      institution: CPT, Marseille
-      year: 2023
-    - title: Visiting Student
-      institution: CENTAI Institute
-      year: 2023
-    - title: Student
-      institution: ISI Foundation
+    - title: Research Assistant
+      institution: CLEAN unit at Bocconi university
       year: 2021
+    - title: Research Assistant
+      institution: Erasmus School of Economics
+      year: 2019
+    - title: Teaching Assistant
+      institution: Erasmus School of Economics
+      year: 2017-2018
       description:
-        - Assisted senior research scientist Dr. Giovanni Petri in the study of high- order interactions and spreading phenemona on simplicial complexes.
+		- TA for Applied Micro and International Economics
+
 
 - title: Academic Interests
   type: nested_list
