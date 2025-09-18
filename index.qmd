@@ -1,6 +1,6 @@
 ---
-title: "Thomas Robiglio"
-subtitle: "[Inverse Complexity Lab](https://skewed.de/lab/)"
+title: "Pierre Robiglio"
+subtitle: "[Rome Economics Doctorate](https://www.redphd.it/)"
 image: "pictures/image73.png"
 
 about:
@@ -10,31 +10,16 @@ about:
   links:
     - text: "{{< iconify material-symbols-light mail-outline>}}"
       aria-label: "Mail"
-      href: mailto:robigliothomas@gmail.com
-
-    - text: "{{< iconify fa6-brands github >}}"
-      aria-label: "GitHub"
-      href: https://github.com/thomasrobiglio
+      href: mailto:pierre.robiglio@gmail.com
     
     - text: "{{< iconify fa6-brands linkedin >}}"
       aria-label: "LinkedIn"
-      href: https://www.linkedin.com/in/thomas-robiglio-04088822b
-    
-    - text: "{{< ai google-scholar >}}"
-      aria-label: "Google Scholar"
-      href: https://scholar.google.com/citations?user=uea_f2MAAAAJ
+      href: https://www.linkedin.com/in/pierre-robiglio-211119100/
     
     - text: "{{< iconify fa6-brands x-twitter >}}"
       aria-label: "X"
-      href: https://twitter.com/thomrobiglio
+      href: https://x.com/PierreRobiglio
     
-    - text: "{{< iconify fa6-brands bluesky >}}"
-      aria-label: "BlueSky"
-      href: https://bsky.app/profile/thomrobiglio.bsky.social
-
-    - text: "{{< iconify fa6-brands strava >}}"
-      aria-label: "Strava"
-      href: https://www.strava.com/athletes/28994784
 
 format:
   html:
@@ -46,15 +31,15 @@ format:
 **Hello there!**
 
 <p style='text-align: justify;'>
-I am a PhD student in Complex Systems and Network Science at [IT:U, Interdisciplinary Transformation University - Austria](https://it-u.at/en/).
+I am a PhD student in Economics at [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/) and [Tor Vergata](https://web.uniroma2.it/).
 </p>
 
 <p style='text-align: justify;'>
-My interest relies in the study of complex systems using tools from network science and statistical physics with a particular focus on [inferential methods](https://skewed.de/lab/research.html) and higher-order systems.
+My research interests are Labor Economics and Industrial Organizations. My JMP, co-authored with with [Edoardo Scalcione](https://sites.google.com/view/edoardo-scalcione/bio/), is at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.  
 </p>
 
 <p style='text-align: justify;'>
-I work under the supervision of [Tiago P. Peixoto](https://skewed.de/lab/contact.html) on the formulation of generative models for temporal networks and the application of network inference methods to the analysis of [internal migrations in Austria](https://moma.science).
+My supervisors are [Matteo Paradisi](https://www.matteoparadisi.com/) and [Emilio Calvano](https://emiliocalvano.wixsite.com/emiliocalvano). 
 </p>
 
 ::: {.callout-tip title="Get in touch!"}
@@ -66,28 +51,13 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
 
-**25/08/2025** - Our article ["Higher-order Ising model on hypergraph"](https://journals.aps.org/pre/abstract/10.1103/hbh5-3nty) has been published in PRE.
+**02/09/2025** - Presented our work on no-poaching agreements to a team of lawyers and economists from the Cartel Unit at [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en).
 
-**18/07/2025** - Upcoming [poster presentation](pdf/moma_poster_ic2s2.pdf) at [IC2S2](https://www.ic2s2-2025.org/).
+**19/07/2025** - I thank the [Chief Economist Team](https://single-market-economy.ec.europa.eu/about-us/chief-economist-team_en) at [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en) for allowing me to present our work on cartels in the labor market during their weekly meeting!.
 
-**17/07/2025** - Our manuscript "Higher-order Ising models on hypergraphs" has been accepted in Physical Review E.
+**01/06/2025** - Officially started my PhD traineeship at the Merger Unit of the [Chief Economist Team](https://single-market-economy.ec.europa.eu/about-us/chief-economist-team_en) at [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en).
 
-**16/07/2025** - New [pre-print](https://arxiv.org/abs/2507.11503) "Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides". First work from my PhD!
-
-**03/06/2025** - Upcoming [talk](pdf/presentation_moma_netsci25.pdf) at [NetSci 2025](https://netsci2025.github.io/) by [Martina](https://mcontisc.github.io/) on our work on internal migrations in Austria.
-
-**29/05/2025** - Upcoming [talk](pdf/presentation_toponets.pdf) at [TopoNets 2025](https://sites.google.com/view/toponets2025/home-page).
-
-**19/05/2025** - The 11th edition of [Data Stories](https://networkdatascience.ceu.edu/data-stories) is happening tomorrow!
-
-**31/03/2025** - Our article ["Synergistic Signatures of Group Mechanisms in Higher-Order Systems"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.137401) has been published in PRL as an Editors' suggestion. Our work is also featured in [Physics](https://physics.aps.org/articles/v18/71).
-
-**28/02/2025** - I gave a [talk](pdf/presentation_namur_28Feb.pdf) at the [Namur Institute for Complex Systems](https://www.naxys.be).
-
-**30/01/2025** - Our manuscript "Synergistic signatures of group mechanisms in higher-order systems" has been accepted in Physical Review Letters.
-
-**07/06/2024** - Today I have passed my comprehensive exam, succesfully defending my [PhD thesis research proposal](pdf/robiglio_research_proposal.pdf)! (you can also check the [material](pdf/seminar_talk_08may2024.pdf) from my recent departmental seminar talk about it)
-
+**27/05/2025** - First presentation of our work on no-poaching agreements in front of the always active [EIEF](https://www.eief.it/eief/) audience. 
 
 </div>
 

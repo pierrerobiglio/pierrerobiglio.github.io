@@ -4,56 +4,63 @@ title: "Curriculum Vitae"
 
 ## Education
 
-### IT:U - Austria
-**PhD in Complex Systems and Network Science** *(October 2024 - Present)*<br />
-**Thesis:** *"Internal migrations in Austria: modeling and inference of temporal graphs"*  
-**Supervisor:** Prof. T. P. Peixoto
+### Einaudi Institute for Economics and Finance – Italy  
+**PhD in Economics (RED)** *(September 2021 – Present)*  
+Status: Coursework completed  
 
-### Central European University  
-**Master of Philosophy in Network Science** *(September 2023 - March 2025)*    
+### Erasmus University Rotterdam – Netherlands  
+**Master of Science in Economics, Cum Laude** *(September 2019 – April 2021)*  
+**Erasmus School of Economics**  
 
-### PoliTO, SISSA, ICPT, UdP, Paris-Saclay, Sorbonne  
-[**Master of Science in Physics of Complex Systems**](https://physics-complex-systems.fr/en/) *(September 2021 - July 2023)*    
-**Thesis:** *"Higher-order structures in face-to-face interaction networks"*  
-**Supervisors:** Prof. A. Barrat, Prof. M. Génois, Prof. L. Dall'Asta  
-**International Track**  
+### London School of Economics – United Kingdom  
+**Summer School in Political Economy** *(July 2019)*  
+Final grade: A+  
 
-### Università degli Studi di Torino  
-**Bachelor in Physical Science and Technology** *(September 2018 - July 2021)*  
-**Thesis:** *"Interacting contagion models on simplicial complexes"*  
-**Supervisors:** Prof. M. Osella, Dr. G. Petri  
-**Department of Physics**  
+### Erasmus University Rotterdam – Netherlands  
+**Bachelor in Economics, Cum Laude** *(September 2016 – 2019)*  
+**Erasmus School of Economics (Honours)**  
+
+---
 
 ## Experience
 
-### Centre de Physique Théorique, Marseille 
-*March 2023 - July 2023*  
-**Internship Student**  
-Worked under the supervision of Prof. Alain Barrat and Prof. Mathieu Génois on the statistical analysis and mathematical modeling of face-to-face interactions in human gatherings.
+### European Commission – DG COMP  
+*June 2025 – Present*  
+**PhD Trainee**  
+- Traineeship at the Chief Economist Team in DG COMP.  
 
-### [**CENTAI Institute**](https://centai.eu/home) 
-*February 2023 - September 2023*  
-**Visiting Student**  
-Worked under the supervision of Prof. Giovanni Petri on the relation between mechanism and behavior in complex systems with higher-order interactions.
+### LUISS University – Rome  
+*September 2023 – Present*  
+**Teaching Assistant**  
+- Assisted in courses: Microeconomics, Macroeconomics, International Economics, and Econometrics.  
 
-### [**ISI Foundation**](https://www.isi.it/) 
-*April 2021 - July 2021*  
-**Student**  
-Assisted senior research scientist Dr. Giovanni Petri in the study of high-order interactions and spreading phenomena on simplicial complexes. The results of this work are the focus of my undergraduate thesis.
+### Bocconi University – Milan  
+*June 2020 – June 2021*  
+**Research Assistant**  
+- Worked with Prof. Paolo Pinotti on crime-related projects using administrative data.  
 
-## Participations in Schools and Conferences
+### Erasmus School of Economics – Rotterdam  
+*March 2020 – July 2020*  
+**Research Assistant**  
+- Worked with Prof. Olivier Marie on labor-related projects using Dutch administrative data.  
 
-- 11th International Conference on Computational Social Science - Norrköping (Sweden), 21 - 24/07/2025
-- International School and Conference on Network Science - Maastricht (the Neetherlands), 02 - 06/06/2025
-- International School and Conference on Network Science - Vienna (Austria), 10 - 14/07/2023  
-- Spring College on the Physics of Complex Systems, ICTP - Trieste (Italy), 20/02/2023 - 17/03/2023  
-- Conference on Complex Systems, Palma de Mallorca (Spain), 17-21/10/2022  
+*September 2018 – March 2019*  
+**Teaching Assistant**  
+- Assisted in courses: Applied Microeconomics and International Economics.  
 
-## Software
+---
 
-- [**XGI**](https://xgi.readthedocs.io/en/stable/): CompleX Group Interactions - a Python package for higher-order networks.  
-- [**HOI**](https://brainets.github.io/hoi/): A Python package for higher-order information theory, optimized using JAX.  
+## Research Interests
 
-## Other stuff
-**I'm addicted to cycling:** cycling myself and *watching/having strong opinions about* professional cycling
+- Labor Economics  
+- Industrial Organization  
+- Applied Economics  
 
+---
+
+## Technical Skills
+
+- **Software:** Stata, SPSS, Python, MATLAB, MS Office, LaTeX  
+- **Languages:** French (Native), Italian (Native), English (Proficient)  
+
+---
