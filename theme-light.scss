@@ -1,42 +1,23 @@
 /*-- scss:defaults --*/
+$body-bg:       #FAFBFC;
+$body-color:    #1D2327;
+$heading-color: #0D1114;
+$border-color:  #D8DEE3;
+$muted-color:   #66727A;
 
-//links
-a:link { 
-  text-decoration: none; 
-} 
+$link-color:       #C43E33; // deep coral
+$link-hover-color: #A9362D;
+$link-decoration:  none;
 
-// Mobile
-@media screen and (max-width: 991.98px) {
-    // social media links
-    .about-entity .about-links {
-      flex-direction: row !important;
-      justify-content: center !important;
-    }
-  
-    // navigation footer
-    .nav-footer {
-        flex-direction: row;
-      }
-  
-    .nav-footer-center {
-      order: 1 !important;
-      flex-basis: 100%;
-      margin: 0 0 -1.2em 0;
-    }
-  
-    .nav-footer-right {
-      order: 2 !important;
-      flex-basis: 100%;
-      text-align: center;
-    }
-  
-    .nav-footer-left {
-      order: 3 !important;
-      flex-basis: 100%;
-      text-align: center;
-    }
-  
-    .navbar .quarto-navbar-tools {
-      text-align: left;
-    }
-  }
+$code-color:  #1D2327;
+$code-bg:     #F1F4F6;
+$code-block-bg-alpha: -.35;
+
+$primary:   #C43E33;
+$secondary: #2F8F8F;
+$navbar-bg: #FFFFFF;
+$navbar-fg: #1D2327;
+$footer-bg: #FFFFFF;
+
+a:link { text-decoration: none; }
+:focus-visible { outline: 3px solid rgba(196,62,51,.35); outline-offset: 2px; }
