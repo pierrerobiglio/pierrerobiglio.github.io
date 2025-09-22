@@ -41,7 +41,7 @@ My supervisors are [Matteo Paradisi](https://www.matteoparadisi.com/) and [Emili
 :::
 
 ::: {.callout-tip title="Get in touch!"}
-Feel free to reach out if you have any *questions/comments/ideas*, or just want to say hello!
+Feel free to reach out if you have any *questions/comments/ideas*, or just want to say hello! 
 :::
 
 ### News
