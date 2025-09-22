@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-You can find the pdf version [here](pdf/Pierre_Robiglio_CV.pdf).
+<a href="pdf/Pierre_Robiglio_CV.pdf" style="display:inline-block; padding:8px 16px; margin-top:8px; background-color:#2c3e50; color:#fff; text-decoration:none; border-radius:6px; margin-right:8px;">⬇️ Download CV</a>
 
 ## Education
 
