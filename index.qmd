@@ -1,12 +1,11 @@
 ---
 title: "Pierre Robiglio"
-subtitle: "[Rome Economics Doctorate](https://www.redphd.it/)"
+subtitle: "[**Rome Economics Doctorate**](https://www.redphd.it/)"
 image: "pictures/Pierre_cv__1_.jpg"
 
 about:
   id: hero-heading
-  template: trestles
-  image-width: 60%
+  template: solana
   links:
     - text: "{{< iconify material-symbols-light mail-outline>}}"
       aria-label: "Mail"
@@ -19,14 +18,13 @@ about:
     - text: "{{< iconify fa6-brands x-twitter >}}"
       aria-label: "X"
       href: https://x.com/PierreRobiglio
+
 format:
   html:
     css: index.css
 ---
 
 :::{#hero-heading}
-
-**Welcome!**
 
 <p style='text-align: justify;'>
 I am a PhD student in Economics at [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/) and [Tor Vergata](https://web.uniroma2.it/).
@@ -42,12 +40,11 @@ My supervisors are [Matteo Paradisi](https://www.matteoparadisi.com/) and [Emili
 
 </br>
 
+:::
+
 ::: {.callout-tip title="Get in touch!"}
 Feel free to reach out if you have any *questions/comments/ideas*, or just want to say hello!
 :::
-
-:::
-
 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
