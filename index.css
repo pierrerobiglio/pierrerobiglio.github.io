@@ -1,7 +1,7 @@
   /* social links: individual links */
   .about-entity .about-link {
     border: none !important;
-    font-size: 1.1em !important; 
+    font-size: 1.2em !important; 
     column-gap: 0em !important;
-    padding: 0.1em 0.1em !important; 
+    padding: 0.0em 0.5em !important; 
   }
