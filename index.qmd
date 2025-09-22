@@ -1,12 +1,12 @@
 ---
 title: "Pierre Robiglio"
 subtitle: "[Rome Economics Doctorate](https://www.redphd.it/)"
-image: "pictures/image73.png"
+image: "pictures/Pierre_cv__1_.jpg"
 
 about:
   id: hero-heading
   template: trestles
-  image-width: 65%
+  image-width: 60%
   links:
     - text: "{{< iconify material-symbols-light mail-outline>}}"
       aria-label: "Mail"
@@ -19,8 +19,6 @@ about:
     - text: "{{< iconify fa6-brands x-twitter >}}"
       aria-label: "X"
       href: https://x.com/PierreRobiglio
-    
-
 format:
   html:
     css: index.css
@@ -28,7 +26,7 @@ format:
 
 :::{#hero-heading}
 
-**Hello there!**
+**Welcome!**
 
 <p style='text-align: justify;'>
 I am a PhD student in Economics at [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/) and [Tor Vergata](https://web.uniroma2.it/).
@@ -42,11 +40,14 @@ My research interests are Labor Economics and Industrial Organizations. My JMP, 
 My supervisors are [Matteo Paradisi](https://www.matteoparadisi.com/) and [Emilio Calvano](https://emiliocalvano.wixsite.com/emiliocalvano). 
 </p>
 
+</br>
+
 ::: {.callout-tip title="Get in touch!"}
 Feel free to reach out if you have any *questions/comments/ideas*, or just want to say hello!
 :::
 
 :::
+
 
 ### News
 <div style="height:165px;overflow:scroll;padding:5px;">
@@ -61,8 +62,4 @@ Feel free to reach out if you have any *questions/comments/ideas*, or just want 
 
 </div>
 
-### Previous affiliations and supervisors
-* [Dept. of Network and Data Science](https://networkdatascience.ceu.edu/), Central European University, Vienna, Austria.
-* [Centre de Physique Théorique](https://www.cpt.univ-mrs.fr), Marseille, France. [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/) and Mathieu Génois.
-* [NPL group](https://nplresearch.github.io) at CENTAI, [ISI Foundation](https://www.isi.it), Torino, Italy. [Giovanni Petri](https://lordgrilo.github.io).
-* Dept. of Physics, UniTO, Torino, Italy. Matteo Osella.
+
