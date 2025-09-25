@@ -8,6 +8,7 @@ title: "Research"
 <u>Pierre Robiglio</u>, Edoardo Scalcione<br/>
 <div style="text-align: justify">
 _Draft Coming Soon_ <br/>
+</div>
 <a href="paper1.pdf" style="display:inline-block; padding:8px 16px; margin-top:8px; background-color:#2c3e50; color:#fff; text-decoration:none; border-radius:6px; margin-right:8px;">📄 PDF</a>
 <a href="paper1-presentation.pdf" style="display:inline-block; padding:8px 16px; margin-top:8px; background-color:#2c3e50; color:#fff; text-decoration:none; border-radius:6px;">🎤 Slides</a>
 
