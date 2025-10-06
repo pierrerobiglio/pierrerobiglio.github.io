@@ -27,11 +27,11 @@ format:
 :::{#hero-heading}
 
 <p style='text-align: justify;'>
-I am a PhD student in Economics at [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/) and [Tor Vergata](https://web.uniroma2.it/).
+I am a PhD student in Economics at [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/) [Sapienza University of Rome](https://economia.web.uniroma1.it/en) and [Tor Vergata University of Rome](https://web.uniroma2.it/).
 </p>
 
 <p style='text-align: justify;'>
-My research interests are Labor Economics and Industrial Organizations. My JMP, co-authored with with [Edoardo Scalcione](https://sites.google.com/view/edoardo-scalcione/bio/), is at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.  
+My research interests are Labor Economics and Industrial Organizations. My JMP, co-authored with with [Edoardo Scalcione](https://sites.google.com/view/edoardo-scalcione/bio/), lies at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.  
 </p>
 
 <p style='text-align: justify;'>
