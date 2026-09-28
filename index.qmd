@@ -6,6 +6,7 @@ image: "pictures/Pierre_2026.jpg"
 about:
   id: hero-heading
   template: solana
+  image-width: 21em
   links:
     - text: "{{< iconify material-symbols-light mail-outline>}}"
       aria-label: "Mail"
@@ -27,11 +28,11 @@ format:
 :::{#hero-heading}
 
 <p style='text-align: justify;'>
-I am an Economist at the [Chief Economist Team](https://competition-policy.ec.europa.eu/about-us/chief-economist_en) of [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en), European Commission. I hold a PhD in Economics (Cum Laude) from the [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/), [Sapienza University of Rome](https://economia.web.uniroma1.it/en) and [Tor Vergata University of Rome](https://web.uniroma2.it/).
+I am an Economist at the [Chief Economist Team](https://competition-policy.ec.europa.eu/about-us/chief-economist_en) of [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en), European Commission. I hold a PhD in Economics from the [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/), [Sapienza University of Rome](https://economia.web.uniroma1.it/en) and [Tor Vergata University of Rome](https://web.uniroma2.it/).
 </p>
 
 <p style='text-align: justify;'>
-My research interests are Labor Economics and Industrial Organization. My JMP, co-authored with [Edoardo Scalcione](https://sites.google.com/view/edoardo-scalcione/bio/), lies at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.  
+I work across competition instruments, with a focus on digital markets and energy.
 </p>
 
 <p style='text-align: justify;'>
@@ -43,18 +44,3 @@ My PhD supervisors were [Matteo Paradisi](https://www.matteoparadisi.com/) and [
 ::: {.callout-note title="Get in touch!"}
 Feel free to reach out if you have any *questions/comments/ideas*, or just want to say hello! 
 :::
-
-### News
-<div style="height:165px;overflow:scroll;padding:5px;">
-
-**02/09/2025** - Presented our work on no-poaching agreements to a team of lawyers and economists from the Cartel Unit at [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en).
-
-**19/07/2025** - I thank the [Chief Economist Team](https://single-market-economy.ec.europa.eu/about-us/chief-economist-team_en) at [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en) for allowing me to present our work on cartels in the labor market during their weekly meeting!.
-
-**01/06/2025** - Officially started my PhD traineeship at the Merger Unit of the [Chief Economist Team](https://single-market-economy.ec.europa.eu/about-us/chief-economist-team_en) at [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en).
-
-**27/05/2025** - First presentation of our work on no-poaching agreements in front of the always active [EIEF](https://www.eief.it/eief/) audience. 
-
-</div>
-
-
