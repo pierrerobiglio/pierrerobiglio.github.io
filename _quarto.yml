@@ -9,13 +9,6 @@ website:
       - href: index.qmd
         text: About
       - CV.qmd
-      - research.qmd
-  announcement: 
-    content: "This website is still under construction. Don’t hesitate to reach out for any information you need." 
-    icon: info-circle
-    dismissable: true
-    type: primary
-    position: below-navbar
 
 format:
   html:

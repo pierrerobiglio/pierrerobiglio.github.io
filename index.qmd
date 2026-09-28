@@ -40,7 +40,7 @@ My PhD supervisors were [Matteo Paradisi](https://www.matteoparadisi.com/) and [
 
 :::
 
-::: {.callout-tip title="Get in touch!"}
+::: {.callout-note title="Get in touch!"}
 Feel free to reach out if you have any *questions/comments/ideas*, or just want to say hello! 
 :::
 

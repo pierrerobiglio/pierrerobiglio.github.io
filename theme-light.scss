@@ -1,23 +1,26 @@
 /*-- scss:defaults --*/
-$body-bg:       #FAFBFC;
-$body-color:    #1D2327;
-$heading-color: #0D1114;
-$border-color:  #D8DEE3;
-$muted-color:   #66727A;
+$body-bg:       #F3F7FC;   // pale blue
+$body-color:    #1B2A3A;
+$heading-color: #0F2A4A;   // navy
+$border-color:  #D3E0EE;
+$muted-color:   #5E7187;
 
-$link-color:       #C43E33; // deep coral
-$link-hover-color: #A9362D;
+$link-color:       #1F6FB8; // blue
+$link-hover-color: #17578F;
 $link-decoration:  none;
 
-$code-color:  #1D2327;
-$code-bg:     #F1F4F6;
+$code-color:  #1B2A3A;
+$code-bg:     #E6EEF7;
 $code-block-bg-alpha: -.35;
 
-$primary:   #C43E33;
-$secondary: #2F8F8F;
-$navbar-bg: #FFFFFF;
-$navbar-fg: #1D2327;
-$footer-bg: #FFFFFF;
+$primary:   #1F6FB8;
+$secondary: #4A90C9;
+$navbar-bg: #0F3A66;       // deep blue
+$navbar-fg: #FFFFFF;
+$navbar-hl: #9FCBF2;
+$footer-bg: #0F3A66;
+$footer-fg: #DCE8F5;
 
+/*-- scss:rules --*/
 a:link { text-decoration: none; }
-:focus-visible { outline: 3px solid rgba(196,62,51,.35); outline-offset: 2px; }
+:focus-visible { outline: 3px solid rgba(31,111,184,.35); outline-offset: 2px; }
