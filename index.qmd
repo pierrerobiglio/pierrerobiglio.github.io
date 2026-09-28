@@ -1,7 +1,7 @@
 ---
 title: "Pierre Robiglio"
-subtitle: "[**Rome Economics Doctorate**](https://www.redphd.it/)"
-image: "pictures/Pierre_cv__1_.jpg"
+subtitle: "**Economist, Chief Economist Team** <br> [DG COMP, European Commission](https://competition-policy.ec.europa.eu/about-us/chief-economist_en)"
+image: "pictures/Pierre_2026.jpg"
 
 about:
   id: hero-heading
@@ -27,15 +27,15 @@ format:
 :::{#hero-heading}
 
 <p style='text-align: justify;'>
-I am a PhD student in Economics at [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/), [Sapienza University of Rome](https://economia.web.uniroma1.it/en) and [Tor Vergata University of Rome](https://web.uniroma2.it/).
+I am an Economist at the [Chief Economist Team](https://competition-policy.ec.europa.eu/about-us/chief-economist_en) of [DG COMP](https://commission.europa.eu/about/departments-and-executive-agencies/competition_en), European Commission. I hold a PhD in Economics (Cum Laude) from the [Rome Economics Doctorate (RED)](https://www.redphd.it/), a program jointly run by [EIEF](https://www.eief.it/eief/), [LUISS](https://www.luiss.it/), [Sapienza University of Rome](https://economia.web.uniroma1.it/en) and [Tor Vergata University of Rome](https://web.uniroma2.it/).
 </p>
 
 <p style='text-align: justify;'>
-My research interests are Labor Economics and Industrial Organizations. My JMP, co-authored with with [Edoardo Scalcione](https://sites.google.com/view/edoardo-scalcione/bio/), lies at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.  
+My research interests are Labor Economics and Industrial Organization. My JMP, co-authored with [Edoardo Scalcione](https://sites.google.com/view/edoardo-scalcione/bio/), lies at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.  
 </p>
 
 <p style='text-align: justify;'>
-My supervisors are [Matteo Paradisi](https://www.matteoparadisi.com/) and [Emilio Calvano](https://emiliocalvano.wixsite.com/emiliocalvano). 
+My PhD supervisors were [Matteo Paradisi](https://www.matteoparadisi.com/) and [Emilio Calvano](https://emiliocalvano.wixsite.com/emiliocalvano). 
 </p>
 
 :::
