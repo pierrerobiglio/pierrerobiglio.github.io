@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pierre Robiglio",
+    "section": "",
+    "text": "I am an Economist at the Chief Economist Team of DG COMP, European Commission. I hold a PhD in Economics (Cum Laude) from the Rome Economics Doctorate (RED), a program jointly run by EIEF, LUISS, Sapienza University of Rome and Tor Vergata University of Rome.\n\n\nMy research interests are Labor Economics and Industrial Organization. My JMP, co-authored with Edoardo Scalcione, lies at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.\n\n\nMy PhD supervisors were Matteo Paradisi and Emilio Calvano.\n\n\n    \n    \n  \n\n\n\n\n\n\n\n\nNoteGet in touch!\n\n\n\nFeel free to reach out if you have any questions/comments/ideas, or just want to say hello!\n\n\n\nNews\n\n02/09/2025 - Presented our work on no-poaching agreements to a team of lawyers and economists from the Cartel Unit at DG COMP.\n19/07/2025 - I thank the Chief Economist Team at DG COMP for allowing me to present our work on cartels in the labor market during their weekly meeting!.\n01/06/2025 - Officially started my PhD traineeship at the Merger Unit of the Chief Economist Team at DG COMP.\n27/05/2025 - First presentation of our work on no-poaching agreements in front of the always active EIEF audience."
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
@@ -7,25 +14,32 @@
     "text": "⬇️ Download CV"
   },
   {
+    "objectID": "CV.html#current-position",
+    "href": "CV.html#current-position",
+    "title": "Curriculum Vitae",
+    "section": "Current Position",
+    "text": "Current Position\nEuropean Commission – DG COMP\nEconomist, April 2026 – Present\n- Chief Economist Team, Brussels"
+  },
+  {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nRome Economics Doctorate (RED) – Italy\nSeptember 2021 – Present\nPhD in Economics\nErasmus School of Economics– Netherlands\nSeptember 2019 – April 2020\nMaster of Science in Economics (Cum Laude)\nLondon School of Economics – United Kingdom\nJuly 2019\nSummer School in Political Economy (Final Grade: A+)\nErasmus School of Economics– Netherlands\nSeptember 2016 – 2019\nBachelor in Economics (Honours, Cum Laude)"
+    "text": "Education\nRome Economics Doctorate (RED) – Italy\nSeptember 2021 – March 2026\nPhD in Economics (Cum Laude)\nErasmus University Rotterdam – Netherlands\nSeptember 2019 – April 2021\nMaster of Science in Economics (Cum Laude)\nErasmus University Rotterdam – Netherlands\nSeptember 2016 – 2019\nBachelor in Economics (Cum Laude)"
   },
   {
     "objectID": "CV.html#experience",
     "href": "CV.html#experience",
     "title": "Curriculum Vitae",
     "section": "Experience",
-    "text": "Experience\nEuropean Commission – DG COMP\nPhD Trainee, June 2025 – September 2025\n- Traineeship at the Chief Economist Team in DG COMP\nLUISS University – Rome\nTeaching Assistant, September 2023 – Present\n- Assisted in Microeconomics, Macroeconomics, International Economics, and Econometrics courses\nBocconi University – Milan\nResearch Assistant, June 2020 – June 2021\n- Collaborated with Prof. Paolo Pinotti on crime-related projects using administrative data\nErasmus School of Economics – Rotterdam\nResearch Assistant, March 2020 – July 2020\n- Worked with Prof. Olivier Marie on labor-related projects using Dutch administrative data\nTeaching Assistant, September 2018 – March 2019\n- Assisted in Applied Microeconomics and International Economics courses"
+    "text": "Experience\nEuropean Commission – DG COMP\nPhD Trainee, June 2025 – October 2025\n- Traineeship at the Chief Economist Team in DG COMP\nLUISS University – Rome\nTeaching Assistant, September 2023 – March 2026\n- Assisted in Microeconomics, Macroeconomics, International Economics, and Econometrics courses\nBocconi University – Milan\nResearch Assistant, June 2020 – June 2021\n- Collaborated with Prof. Paolo Pinotti on crime-related projects using administrative data\nErasmus School of Economics – Rotterdam\nResearch Assistant, March 2020 – July 2020\n- Worked with Prof. Olivier Marie on labor-related projects using Dutch administrative data\nTeaching Assistant, September 2018 – March 2019\n- Assisted in Applied Microeconomics and International Economics courses"
   },
   {
     "objectID": "CV.html#research-interests",
     "href": "CV.html#research-interests",
     "title": "Curriculum Vitae",
     "section": "Research Interests",
-    "text": "Research Interests\n\nLabor Economics\n\nIndustrial Organization\n\nApplied Economics"
+    "text": "Research Interests\n\nLabor Economics\n\nIndustrial Organization\n\nApplied Microeconomics"
   },
   {
     "objectID": "CV.html#technical-skills",
@@ -33,26 +47,5 @@
     "title": "Curriculum Vitae",
     "section": "Technical Skills",
     "text": "Technical Skills\n\nSoftware: Stata, SPSS, Python, MATLAB, MS Office, LaTeX\n\nLanguages: French (Native), Italian (Native), English (Proficient)"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Collusion in the Labor Market: Evidence from a No-Poaching Agreement in Portugal  Pierre Robiglio, Edoardo Scalcione\n\nDraft Coming Soon \n\n\nWorkers’ Misperceptions About Job Offers  Pierre Robiglio, Jacopo Orlandi\n\nDraft Available Upon Request."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "Collusion in the Labor Market: Evidence from a No-Poaching Agreement in Portugal  Pierre Robiglio, Edoardo Scalcione\n\nDraft Coming Soon \n\n\nWorkers’ Misperceptions About Job Offers  Pierre Robiglio, Jacopo Orlandi\n\nDraft Available Upon Request."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pierre Robiglio",
-    "section": "",
-    "text": "I am a PhD student in Economics at Rome Economics Doctorate (RED), a program jointly run by EIEF, LUISS, Sapienza University of Rome and Tor Vergata University of Rome.\n\n\nMy research interests are Labor Economics and Industrial Organizations. My JMP, co-authored with with Edoardo Scalcione, lies at the intersection of these two fields; we use administrative data to study the labor implications of a collusive scheme in the Portuguese labor market.\n\n\nMy supervisors are Matteo Paradisi and Emilio Calvano.\n\n\n    \n    \n  \n\n\n\n\n\n\n\n\nTipGet in touch!\n\n\n\nFeel free to reach out if you have any questions/comments/ideas, or just want to say hello!\n\n\n\nNews\n\n02/09/2025 - Presented our work on no-poaching agreements to a team of lawyers and economists from the Cartel Unit at DG COMP.\n19/07/2025 - I thank the Chief Economist Team at DG COMP for allowing me to present our work on cartels in the labor market during their weekly meeting!.\n01/06/2025 - Officially started my PhD traineeship at the Merger Unit of the Chief Economist Team at DG COMP.\n27/05/2025 - First presentation of our work on no-poaching agreements in front of the always active EIEF audience."
   }
 ]
